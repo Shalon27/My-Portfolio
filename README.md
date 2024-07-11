@@ -1,2 +1,2 @@
 # My-Portfolio
-I have made my portfolio using HTML, CSS and JavaScript using the help of youtube.
+I have made my portfolio using HTML, CSS and JavaScript with the help of youtube.
